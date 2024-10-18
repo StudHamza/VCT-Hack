@@ -1,0 +1,23 @@
+player_name,team_mode,average_drp,damage_std_dev,damage_dealt,damage_taken,players_killed,assists,head_shots
+Jasmine Manankil,D,55,39.0,1092,4584,0,16,0
+Thomas leslein,A,117,119.0,1168,2176,8,0,6
+Emily Bach,A,67,89.0,1340,3024,4,8,8
+Allison Evergreen,A,117,119.0,1752,3264,12,0,9
+Catherine Bui,A,57,83.0,1866,4680,18,12,9
+Marceline Carson,A,227,111.0,2272,1858,14,0,8
+Xanna Kim-Alaniz,A,156,97.0,2346,3525,12,6,9
+Marceline Carson,D,99,118.0,2376,3630,14,4,14
+Thomas leslein,D,105,117.0,2514,4172,8,2,8
+Nathan Hoang,D,181,181.0,2721,3774,12,15,9
+Melanie Tetreault,A,101,111.0,3018,4668,12,18,12
+Catherine Bui,D,212,69.0,3186,2886,15,6,15
+Emily Bach,D,73,101.0,3488,10956,16,16,16
+Joshua Park,D,241,428.0,3612,4665,6,0,3
+Allison Evergreen,D,105,117.0,3771,6258,12,3,12
+Xanna Kim-Alaniz,D,129,129.0,4638,6255,24,6,21
+Sean Martin,A,130,104.0,4689,6108,24,18,18
+Sean Martin,D,371,210.0,5571,3099,27,6,27
+Nathan Hoang,A,169,111.0,6084,4962,30,12,27
+Joshua Park,A,223,128.0,8043,4704,48,15,36
+Jasmine Manankil,A,216,163.0,10344,7416,52,16,44
+Melanie Tetreault,D,150,110.0,10806,15852,54,42,48

@@ -1,0 +1,21 @@
+tournament_name,team_name,team_mode,player_id,average_drp,damage_std_dev,damage_dealt,damage_taken,players_killed,assists,head_shots
+game_changers_na_split_1_2024,Passion Project,D,106977394394708775,166,152.0,273,1146,0,4,0
+game_changers_na_split_1_2024,Decimate,A,110169348080685920,83,105.0,335,756,1,2,2
+game_changers_na_split_1_2024,Decimate,A,106977663122310699,128,111.0,503,778,2,3,2
+game_changers_na_split_1_2024,Decimate,A,111170144102629356,108,110.0,584,1088,4,0,3
+game_changers_na_split_1_2024,Passion Project,A,106978689358558927,109,105.0,622,1560,6,4,3
+game_changers_na_split_1_2024,Decimate,A,110765846044516976,134,115.0,782,1175,4,2,3
+game_changers_na_split_1_2024,Decimate,D,110169348080685920,83,105.0,872,2739,4,4,4
+game_changers_na_split_1_2024,Passion Project,D,110765868192358238,169,126.0,907,1258,4,5,3
+game_changers_na_split_1_2024,Passion Project,D,106978689358558927,109,105.0,1062,962,5,2,5
+game_changers_na_split_1_2024,Decimate,A,111170144255516057,130,127.0,1136,929,7,0,4
+game_changers_na_split_1_2024,Decimate,D,111170144255516057,130,127.0,1188,1815,7,2,7
+game_changers_na_split_1_2024,Passion Project,D,110765875517906795,219,236.0,1204,1555,2,0,1
+game_changers_na_split_1_2024,Decimate,D,111170144102629356,108,110.0,1257,2086,4,1,4
+game_changers_na_split_1_2024,Decimate,D,110765846044516976,134,115.0,1546,2085,8,2,7
+game_changers_na_split_1_2024,Passion Project,A,110169354188339648,254,284.0,1563,2036,8,6,6
+game_changers_na_split_1_2024,Decimate,D,106977663122310699,128,111.0,1801,2642,9,7,8
+game_changers_na_split_1_2024,Passion Project,D,110169354188339648,254,284.0,1857,1033,9,2,9
+game_changers_na_split_1_2024,Passion Project,A,110765868192358238,169,126.0,2028,1654,10,4,9
+game_changers_na_split_1_2024,Passion Project,A,106977394394708775,166,152.0,2586,1854,13,4,11
+game_changers_na_split_1_2024,Passion Project,A,110765875517906795,219,236.0,2681,1568,16,5,12
