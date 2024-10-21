@@ -1,0 +1,9 @@
+1. Understand the Map
+
+Each Valorant map has distinct layouts that lend themselves to specific defensive strategies. It is crucial to familiarize yourself with the nuances of each map to better anticipate the attack routes and chokepoints.
+
+Map Knowledge: Know the layout of all major choke points, bomb sites (A and B), and high-traffic areas like mid-control. Each map has specific lanes and corridors that attackers will need to pass through. For instance, on Ascent, mid-control is vital, while on Bind, the teleporters can shift pressure between sites quickly.
+
+Site Control: Focus on learning how to control the entrances to bomb sites. This includes understanding common planting spots and rotations. For example, B-Site on Split offers different angles for defenders, and mastering them will allow you to surprise attackers while still holding ground.
+
+Sound Cues and Rotations: Listen for the sound cues of the attacking team (like footsteps or ability usage). Many maps are designed so that rotations between sites are possible. Recognizing when and where to rotate (based on sound or teammate callouts) is a critical part of the defensive strategy.

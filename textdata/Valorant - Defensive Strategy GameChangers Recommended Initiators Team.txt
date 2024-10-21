@@ -1,0 +1,14 @@
+Selecting Initiators for Defense
+Initiators on defense provide utility that helps gather information on the attackers’ movements and disrupt their plans. Initiators like Sova and Breach can reveal enemy positions or clear out areas that attackers may be holding. Although more commonly seen in offensive roles, Initiators play an important role in defense by ensuring that defenders are aware of enemy movements and can react accordingly.
+
+Key Attributes of Defensive Initiators:
+Information Gathering: Initiators like Sova excel at revealing enemy positions with abilities like Recon Bolt or Drone. This information is crucial in defense, as it helps defenders know where to position themselves and how to respond to attackers.
+
+Crowd Control: Defensive Initiators often use their utility to delay or disrupt enemy pushes. Abilities like Breach’s Fault Line or Skye’s Trailblazer can force attackers to retreat or reposition, buying time for the defense to rotate or set up better angles.
+
+Coordination with Teammates: Initiators must work closely with their teammates on defense, coordinating their utility to prevent attackers from overwhelming the site. A well-coordinated flash or recon ability can create openings for defenders to retake control of key areas.
+
+Recommended Initiator Players:
+alexis (Cloud9 White): Alexis is a highly skilled Initiator, particularly with agents like Sova and Skye. On defense, her recon abilities provide valuable information to her team, allowing them to make informed decisions on how to rotate or hold sites. Her flashes and crowd control abilities also help delay enemy pushes, making her a key asset in defensive play.
+
+Maddie (Shopify Rebellion GC): Maddie is known for her utility usage as an Initiator, especially with agents like Skye. Her ability to gather information and provide support for her teammates with flashes and stuns is invaluable on defense, where controlling space and knowing the enemy’s position is crucial.

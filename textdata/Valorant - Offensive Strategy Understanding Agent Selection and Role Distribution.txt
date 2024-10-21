@@ -1,0 +1,11 @@
+Agent Selection and Role Distribution
+
+Just as in defense, choosing the right agents for offense can dramatically affect the outcome of rounds. The main agent roles in Valorant are Duelists, Initiators, Controllers, and Sentinels. Each role has a specific responsibility during an attack, and selecting a well-balanced team composition is critical.
+
+Duelists (Jett, Reyna, Phoenix, Raze, Yoru, Neon): Duelists are the main fraggers of the team, responsible for taking engagements, creating space, and drawing defender attention. Agents like Jett or Raze can entry onto a site using their mobility, while agents like Reyna can thrive in chaotic engagements by healing after kills. Duelists should be the first to initiate pushes, as their kit allows them to escape or win duels more easily than other roles.
+
+Initiators (Sova, Skye, Breach, KAY/O): Initiators help gather information and displace defenders. Sova’s Recon Dart or Skye’s Guiding Light flashes can reveal where defenders are hiding. Breach’s utility, such as his Fault Line or Aftershock, can stun or force enemies out of cover. Initiators work closely with Duelists, setting up the attack by creating advantageous engagements.
+
+Controllers (Brimstone, Omen, Viper, Astra): Controllers are responsible for cutting off sightlines and denying areas with smokes or other utility. Brimstone’s smoke can block key angles like Heaven or Mid, making it harder for defenders to retake or hold a site. Omen and Viper can also help secure safe plant zones by using their smoke or toxin abilities to protect teammates planting the spike.
+
+Sentinels (Killjoy, Cypher, Sage, Chamber): Although Sentinels excel at defense, they can provide valuable support on offense. Killjoy and Cypher can lurk and secure flanks with their gadgets, allowing the attacking team to focus on pushing the site. Sage can heal teammates and use her wall to block off defenders' lines of sight, while Chamber can act as a mobile sniper, holding aggressive angles and securing early picks.

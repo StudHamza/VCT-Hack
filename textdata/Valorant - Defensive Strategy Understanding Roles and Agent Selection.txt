@@ -1,0 +1,11 @@
+Roles and Agent Selection
+
+Choosing the right agent for defense is just as crucial as attacking. The following roles have unique responsibilities:
+
+Sentinel Agents (Cypher, Killjoy, Sage): These agents are key to defending because they specialize in holding sites with utility that slows or prevents enemies from pushing. Cypher’s tripwires and cameras or Killjoy’s turrets and alarm bots provide excellent zone control. Sage’s healing and wall abilities can block off areas or give the team time to rotate.
+
+Controller Agents (Brimstone, Omen, Viper, Astra): These agents control sightlines with smokes and other utility. On defense, you can use smokes to block key attacker sightlines and buy time. For instance, Omen’s ability to reposition and drop smokes can allow defenders to maintain unpredictability.
+
+Initiator Agents (Sova, Skye, Breach): Initiators are less common on defense but are excellent for gathering information on where the attackers are pushing from. For example, Sova’s Recon Dart can reveal multiple enemies at a choke point, allowing defenders to react appropriately.
+
+Duelists (Jett, Reyna, Phoenix, Raze): While duelists are often associated with aggressive plays, they can hold critical angles on defense and apply pressure to attackers with quick engagements. For instance, Jett can use her mobility to control aggressive pushes or escape a bad fight.

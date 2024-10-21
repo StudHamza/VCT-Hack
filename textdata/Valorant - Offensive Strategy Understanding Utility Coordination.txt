@@ -1,0 +1,9 @@
+Utility Coordination
+
+Utility usage can make or break an attack. Every agent’s ability can contribute to a successful offensive strategy, but the key is timing and coordination.
+
+Smokes and Cover: Controllers should use their smokes strategically to block off dangerous sightlines and cut defenders' vision. For example, when attacking B Site on Bind, smokes should be placed to cover Elbow and CT Spawn so defenders can’t easily peek the attackers. Well-timed smokes not only create safe paths for attackers but also delay defender rotations and retakes.
+
+Flashes and Crowd Control: Flash abilities are invaluable for attackers to blind defenders holding crucial angles. Flashing before entering a site gives your team a few seconds of free movement. Breach, Skye, and Phoenix have powerful flash abilities that can hit multiple defenders, while Yoru and Reyna can also use their flashes to push enemies back.
+
+Recon and Information Gathering: Gathering information on enemy locations is critical before committing to a site. Sova’s Recon Bolt or Drone, and Skye’s Trailblazer can provide valuable intel on where defenders are positioned. This information allows the attacking team to make informed decisions, whether to continue the push or rotate to another site.

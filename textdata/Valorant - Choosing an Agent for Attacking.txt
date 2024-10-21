@@ -1,0 +1,26 @@
+Choosing an Agent for Attacking
+
+On the attacking side, the primary goal is to control space, break through enemy defenses, and plant the spike. Agents that can initiate engagements, disrupt enemy lines, or cover large areas of the map tend to perform well. Here’s a breakdown of roles that excel in attack and what to look for:
+
+1. Duelists
+Duelists are typically the most aggressive agents, designed to take fights and create openings for the team. Their abilities help them win one-on-one duels and push through enemy defenses.
+
+Phoenix: His ability to flash enemies with curveball, regenerate health using his Blaze or Hot Hands, and get a second chance with his ultimate "Run it Back" makes Phoenix a great pick for aggressively breaking through choke points.
+Jett: Jett’s mobility with her Dash and Updraft allows her to quickly take space on the map, and her smokes (Cloudburst) are handy for short-term cover. She’s effective at taking high-risk, high-reward duels and creating confusion among enemies.
+Reyna: Reyna excels in isolated engagements. Her ability to heal or become invulnerable after getting a kill (Devour and Dismiss) helps her chain eliminations during aggressive pushes.
+2. Initiators
+Initiators create opportunities for the team by setting up fights and enabling entry onto bomb sites with their abilities. They are crucial for gathering information and disrupting enemy defenses.
+
+Sova: Sova’s Recon Bolt and Owl Drone are essential for gathering intel about enemy positioning, helping the team plan their attack routes. His Shock Darts and ultimate can also help flush out enemies from hiding spots.
+Skye: Skye’s Guiding Light (flashbird) and Trailblazer (tiger) are ideal for scouting and blinding enemies before a push. Her healing ability also ensures that her team stays healthy after skirmishes.
+KAY/O: His suppression ability is invaluable during attacks. KAY/O can disable enemy abilities, especially Sentinels, making it easier for the team to enter sites without worrying about traps or defensive utilities.
+3. Controllers
+Controllers are experts in manipulating the battlefield, typically using smoke and zone control to help their team gain an advantage during site takes.
+
+Brimstone: His ability to place multiple smokes at once, combined with his Molotov (Incendiary) for post-plant scenarios, makes him an excellent attacker. His ultimate, Orbital Strike, is deadly for denying defuse attempts.
+Omen: Omen’s long-lasting smokes, teleport (Shrouded Step), and paranoia (flash) allow him to execute sneaky plays. His ultimate is useful for scouting or creating chaos during an attack.
+4. Sentinels (in Attack)
+Though Sentinels are typically defense-oriented, some of their utilities can be used to gain map control or cover flanks during an attack.
+
+Sage: Sage can block off important sightlines or choke points with her Barrier Orb, allowing her team to safely plant the spike. She can also heal teammates after engagements, keeping them ready for the next round.
+Killjoy: Her Nanoswarms can be used post-plant to deny defuse attempts, while her turret can cover flanks, ensuring that her team can focus on the attack without worrying about being surprised from behind.

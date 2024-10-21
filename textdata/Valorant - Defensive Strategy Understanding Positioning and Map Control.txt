@@ -1,0 +1,11 @@
+Positioning and Map Control
+
+One of the most important elements of defensive preparation is positioning. Proper positioning allows defenders to hold a site efficiently without overcommitting or leaving gaps in coverage.
+
+Play for Information: Use early-round utility like Cypher's cameras or Sova’s Recon Bolt to gather information about where the attackers are setting up. Avoid peeking unless necessary; it’s better to bait attackers into traps or ambushes.
+
+Anchoring vs. Rotating: Decide which players will anchor a site and which will rotate. A sentinel like Killjoy might be the best agent to anchor, setting up traps and holding a site solo while the rest of the team flexibly rotates based on callouts.
+
+Holding Off Angles: Attackers will expect defenders to hold common angles, so playing unconventional or off angles can give you the advantage. Holding a wider angle, for example, forces attackers to adjust their crosshair and can lead to easy eliminations.
+
+Crossfires: Set up crossfires with teammates to cover multiple lanes of attack. If an attacker engages one player, the other can take them down while they are distracted.
